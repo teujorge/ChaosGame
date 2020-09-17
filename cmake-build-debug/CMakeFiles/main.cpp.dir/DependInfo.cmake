@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/matheus/Documents/CLionProjects/ChaosGame/graphics.cpp" "/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles/main.cpp.dir/graphics.cpp.o"
-  "/Users/matheus/Documents/CLionProjects/ChaosGame/main.cpp" "/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles/main.cpp.dir/main.cpp.o"
-  "/Users/matheus/Documents/CLionProjects/ChaosGame/shapes.cpp" "/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles/main.cpp.dir/shapes.cpp.o"
+  "/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/graphics.cpp" "/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles/main.cpp.dir/graphics.cpp.o"
+  "/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/main.cpp" "/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles/main.cpp.dir/main.cpp.o"
+  "/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/shapes.cpp" "/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles/main.cpp.dir/shapes.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

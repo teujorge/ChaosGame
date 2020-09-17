@@ -6,15 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/Users/matheus/Documents/CLionProjects/ChaosGame/graphics.cpp
+/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/graphics.cpp
+stdlib.h
+-
+windows.h
+-
+sys/time.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
 graphics.h
-/Users/matheus/Documents/CLionProjects/ChaosGame/graphics.h
+/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/graphics.h
 shapes.h
-/Users/matheus/Documents/CLionProjects/ChaosGame/shapes.h
+/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/shapes.h
 vector
 -
 
-/Users/matheus/Documents/CLionProjects/ChaosGame/graphics.h
+/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/graphics.h
 stdlib.h
 -
 windows.h
@@ -26,21 +36,7 @@ GLUT/glut.h
 GL/glut.h
 -
 
-/Users/matheus/Documents/CLionProjects/ChaosGame/main.cpp
-iostream
--
-shapes.h
-/Users/matheus/Documents/CLionProjects/ChaosGame/shapes.h
-graphics.h
-/Users/matheus/Documents/CLionProjects/ChaosGame/graphics.h
-
-/Users/matheus/Documents/CLionProjects/ChaosGame/shapes.cpp
-graphics.h
-/Users/matheus/Documents/CLionProjects/ChaosGame/graphics.h
-shapes.h
-/Users/matheus/Documents/CLionProjects/ChaosGame/shapes.h
-
-/Users/matheus/Documents/CLionProjects/ChaosGame/shapes.h
+/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/shapes.h
 iostream
 -
 cmath

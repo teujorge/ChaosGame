@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug"/>
+				<Option working_dir="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug"/>
+				<Option working_dir="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug"/>
+				<Option working_dir="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main.cpp">
-				<Option output="/Users/matheus/Documents/CLionProjects/ChaosGame/bin/main.cpp" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/matheus/Documents/CLionProjects/ChaosGame/bin"/>
+				<Option output="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/bin/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main.cpp/fast">
-				<Option output="/Users/matheus/Documents/CLionProjects/ChaosGame/bin/main.cpp" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/matheus/Documents/CLionProjects/ChaosGame/bin"/>
+				<Option output="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/bin/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,29 +75,29 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/matheus/Documents/CLionProjects/ChaosGame/graphics.cpp">
+		<Unit filename="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/graphics.cpp">
 			<Option target="main.cpp"/>
 		</Unit>
-		<Unit filename="/Users/matheus/Documents/CLionProjects/ChaosGame/graphics.h">
+		<Unit filename="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/graphics.h">
 			<Option target="main.cpp"/>
 		</Unit>
-		<Unit filename="/Users/matheus/Documents/CLionProjects/ChaosGame/main.cpp">
+		<Unit filename="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/main.cpp">
 			<Option target="main.cpp"/>
 		</Unit>
-		<Unit filename="/Users/matheus/Documents/CLionProjects/ChaosGame/shapes.cpp">
+		<Unit filename="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/shapes.cpp">
 			<Option target="main.cpp"/>
 		</Unit>
-		<Unit filename="/Users/matheus/Documents/CLionProjects/ChaosGame/shapes.h">
+		<Unit filename="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/shapes.h">
 			<Option target="main.cpp"/>
 		</Unit>
-		<Unit filename="/Users/matheus/Documents/CLionProjects/ChaosGame/CMakeLists.txt">
+		<Unit filename="/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

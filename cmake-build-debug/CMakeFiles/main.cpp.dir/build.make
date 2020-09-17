@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/matheus/Documents/CLionProjects/ChaosGame
+CMAKE_SOURCE_DIR = /Users/matheus/Documents/Programming/CLionProjects/ChaosGame
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.cpp.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/main.cpp.dir/flags.make
 
 CMakeFiles/main.cpp.dir/graphics.cpp.o: CMakeFiles/main.cpp.dir/flags.make
 CMakeFiles/main.cpp.dir/graphics.cpp.o: ../graphics.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.cpp.dir/graphics.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/graphics.cpp.o -c /Users/matheus/Documents/CLionProjects/ChaosGame/graphics.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.cpp.dir/graphics.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/graphics.cpp.o -c /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/graphics.cpp
 
 CMakeFiles/main.cpp.dir/graphics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.cpp.dir/graphics.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matheus/Documents/CLionProjects/ChaosGame/graphics.cpp > CMakeFiles/main.cpp.dir/graphics.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/graphics.cpp > CMakeFiles/main.cpp.dir/graphics.cpp.i
 
 CMakeFiles/main.cpp.dir/graphics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.cpp.dir/graphics.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matheus/Documents/CLionProjects/ChaosGame/graphics.cpp -o CMakeFiles/main.cpp.dir/graphics.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/graphics.cpp -o CMakeFiles/main.cpp.dir/graphics.cpp.s
 
 CMakeFiles/main.cpp.dir/main.cpp.o: CMakeFiles/main.cpp.dir/flags.make
 CMakeFiles/main.cpp.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.cpp.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/main.cpp.o -c /Users/matheus/Documents/CLionProjects/ChaosGame/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.cpp.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/main.cpp.o -c /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/main.cpp
 
 CMakeFiles/main.cpp.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.cpp.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matheus/Documents/CLionProjects/ChaosGame/main.cpp > CMakeFiles/main.cpp.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/main.cpp > CMakeFiles/main.cpp.dir/main.cpp.i
 
 CMakeFiles/main.cpp.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.cpp.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matheus/Documents/CLionProjects/ChaosGame/main.cpp -o CMakeFiles/main.cpp.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/main.cpp -o CMakeFiles/main.cpp.dir/main.cpp.s
 
 CMakeFiles/main.cpp.dir/shapes.cpp.o: CMakeFiles/main.cpp.dir/flags.make
 CMakeFiles/main.cpp.dir/shapes.cpp.o: ../shapes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.cpp.dir/shapes.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/shapes.cpp.o -c /Users/matheus/Documents/CLionProjects/ChaosGame/shapes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.cpp.dir/shapes.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/shapes.cpp.o -c /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/shapes.cpp
 
 CMakeFiles/main.cpp.dir/shapes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.cpp.dir/shapes.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matheus/Documents/CLionProjects/ChaosGame/shapes.cpp > CMakeFiles/main.cpp.dir/shapes.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/shapes.cpp > CMakeFiles/main.cpp.dir/shapes.cpp.i
 
 CMakeFiles/main.cpp.dir/shapes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.cpp.dir/shapes.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matheus/Documents/CLionProjects/ChaosGame/shapes.cpp -o CMakeFiles/main.cpp.dir/shapes.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/shapes.cpp -o CMakeFiles/main.cpp.dir/shapes.cpp.s
 
 # Object files for target main.cpp
 main_cpp_OBJECTS = \
@@ -110,7 +110,7 @@ main_cpp_EXTERNAL_OBJECTS =
 ../bin/main.cpp: CMakeFiles/main.cpp.dir/shapes.cpp.o
 ../bin/main.cpp: CMakeFiles/main.cpp.dir/build.make
 ../bin/main.cpp: CMakeFiles/main.cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ../bin/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ../bin/main.cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/main.cpp.dir/clean:
 .PHONY : CMakeFiles/main.cpp.dir/clean
 
 CMakeFiles/main.cpp.dir/depend:
-	cd /Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/matheus/Documents/CLionProjects/ChaosGame /Users/matheus/Documents/CLionProjects/ChaosGame /Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug /Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug /Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles/main.cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/matheus/Documents/Programming/CLionProjects/ChaosGame /Users/matheus/Documents/Programming/CLionProjects/ChaosGame /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles/main.cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/main.cpp.dir/depend
 

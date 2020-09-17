@@ -44,10 +44,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/matheus/Documents/CLionProjects/ChaosGame
+CMAKE_SOURCE_DIR = /Users/matheus/Documents/Programming/CLionProjects/ChaosGame
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/main.cpp.dir/all:
 	$(MAKE) -f CMakeFiles/main.cpp.dir/build.make CMakeFiles/main.cpp.dir/depend
 	$(MAKE) -f CMakeFiles/main.cpp.dir/build.make CMakeFiles/main.cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target main.cpp"
 .PHONY : CMakeFiles/main.cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/main.cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/main.cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/matheus/Documents/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/matheus/Documents/Programming/CLionProjects/ChaosGame/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/main.cpp.dir/rule
 
 # Convenience name for target.
