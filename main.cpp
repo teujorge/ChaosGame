@@ -4,7 +4,7 @@
 
 int main(int argc, char** argv) {
 
-    cout << "welcome to the chaos game" << endl;
+    // cout << "welcome to the chaos game" << endl;
 
     graphicsPlay(argc, argv);
     return 0;
